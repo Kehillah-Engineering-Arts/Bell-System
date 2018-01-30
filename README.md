@@ -1,7 +1,7 @@
 # Bell-System
 This Repository is used for the Bell System
 
-##Purpose:
+## Purpose:
 To fix the bell system to make it more accurate so teachers do not have to check if the bell is wrong
 
 ## Requirements:
